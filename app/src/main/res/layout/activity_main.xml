@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/bg_round_button"
         android:onClick="logout"
-        android:text="@string/logout"
+        android:text="logout"
         app:icon="@drawable/fui_ic_anonymous_white_24dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

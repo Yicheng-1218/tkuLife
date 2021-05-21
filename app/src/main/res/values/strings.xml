@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tkuLife</string>
+    <string name="btn">按鈕</string>
+    <string name="dormitory">宿舍</string>
+    <string name="std">學生</string>
+    <string name="admin">管理員</string>
+    <string name="loading">載入中</string>
+    <string name="logout">logout</string>
+    <string name="uid">uid</string>
+    <string name="username">username</string>
+    <string name="realname">realname</string>
+    <string name="email">email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

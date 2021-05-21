@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "822973990666",
+    "project_id": "database-for-flask",
+    "storage_bucket": "database-for-flask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822973990666:android:786cd8a0d16c0e74471cf3",
+        "android_client_info": {
+          "package_name": "com.example.tkulife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822973990666-r9u144mfkks8nisdj8c7vo4bmbnuuccu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tkulife",
+            "certificate_hash": "1e324f16e42714ad51ade3d1d41626fe53cfc0fb"
+          }
+        },
+        {
+          "client_id": "822973990666-3at3qrhsg003vldgmr3ilec678fom5ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzjUs_LpiE0YtwUAZ3Hc-l_dnrwRE56wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822973990666-3at3qrhsg003vldgmr3ilec678fom5ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

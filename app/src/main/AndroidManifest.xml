@@ -12,8 +12,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TkuLife">
-        <activity android:name=".StdPage"
-                  android:parentActivityName=".userSelect">
+        <activity android:name=".testFragment"></activity>
+        <activity
+            android:name=".StdPage"
+            android:parentActivityName=".userSelect">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".userSelect" />
